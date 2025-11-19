@@ -35,3 +35,6 @@ The positional arguments are:
      - Example with functional annotation: `description=XP_051205201.1 protein MEI2-like 3 [Lolium perenne];eggnog_seed_ortholog=4513.MLOC_34765.1;eggnog_description=RNA recognition motif 2;ipscan_interpro_id=-(-);ipscan_protein_description=PTHR23189(RNA RECOGNITION MOTIF-CONTAINING)`
      - Example with no functional annotation: `description=NA;eggnog_seed_ortholog=NA;eggnog_description=NA;ipscan_interpro_id=NA;ipscan_protein_description=NA`
 4. `output_file_name` - the name of the new output gff file with the functional annotation added
+
+## Script source
+This script was developed by Kaden Patten at the USDA ARS Forage and Range Research Unit in Logan, UT
