@@ -7,5 +7,5 @@ This repository is a collection of utlities, each in a separate folder, that are
 ## List of utilities
 | Utility               | Description                                                   | Type          |
 |-----------------------|---------------------------------------------------------------|---------------|
-| add_entap_results2gff | Adding funtional annotation from [EnTAP](https://entap.readthedocs.io/en/latest/index.html) results to a .gff file | python script |
+| [add_entap_results2gff](https://github.com/MatthewRobbins-USDA/FRR_utils/tree/main/add_entap_results2gff) | Adding funtional annotation from [EnTAP](https://entap.readthedocs.io/en/latest/index.html) results to a .gff file | python script |
 
